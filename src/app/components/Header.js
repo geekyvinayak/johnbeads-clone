@@ -19,7 +19,7 @@ export default function Header() {
   ];
 
   return (
-    <header className="w-full relative z-50">
+    <header className="w-full relative z-50 max-w-[1440px] mx-auto">
       {/* Top bar */}
       <div className="bg-slate-900 text-white text-sm px-4 py-1 text-right hidden md:block">
         Visit our showroom
