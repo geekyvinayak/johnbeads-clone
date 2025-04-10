@@ -11,10 +11,10 @@ export default function Footer() {
           {/* Logo and Description */}
           <div className="flex-1 max-w-xs">
             <Link href="/" className="inline-block mb-4">
-              <Image src="/logo.png" alt="John Bead" width={250} height={48} />  
+              <Image src="/logo.png" alt="Next Clone" width={250} height={48} />  
             </Link>
             <p className="text-sm text-gray-600 mb-4">
-              John Bead was established in 1954 by Fritz John, whose desire was
+              Next Clone was established in 1954 by Fritz John, whose desire was
               to introduce the quality and timeless elegance of Czech crystal
               culture into the world of western DIY crafts and design.
             </p>
@@ -146,7 +146,7 @@ export default function Footer() {
         {/* Copyright and Payment Methods */}
         <div className="flex flex-col md:flex-row justify-between items-center p-4  border-t">
           <p className="text-sm text-gray-600 mb-4 md:mb-0">
-            John Bead is Copyright © 2019. All Rights Reserved.
+            Next Clone is Copyright © 2019. All Rights Reserved.
           </p>
           <div className="flex space-x-2">
             <Image

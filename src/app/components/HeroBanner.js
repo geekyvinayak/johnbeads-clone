@@ -23,7 +23,7 @@ export default function HeroBanner() {
                 Maple Leaf Beads
               </h2>
               <p className="text-sm md:text-base mb-5 leading-relaxed">
-                John Bead Corp is open and shipping all orders.<br />
+                Next Clone Corp is open and shipping all orders.<br />
                 Only our showroom is closed to visitors at this time.
               </p>
               <button className="bg-[#05527C] hover:bg-blue-800 text-white font-semibold text-sm px-6 py-2 md:px-6 md:py-2 rounded">
