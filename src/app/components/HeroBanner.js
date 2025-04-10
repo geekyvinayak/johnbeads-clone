@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function HeroBanner() {
   return (
-    <section className="relative w-full">
+    <section className="relative w-full max-w-[1440px] mx-auto">
       {/* Background image */}
       <div className="relative w-full h-[500px] md:h-[550px]">
         <Image
